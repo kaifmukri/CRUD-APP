@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
+# install necesarry node modules and dependencies
+
+`npm install`
+
+# intall angular material dependencies
+
+`ng add @angular/material`
+
 # Start the JSON server:
 
 run the following command to start the JSON server:
